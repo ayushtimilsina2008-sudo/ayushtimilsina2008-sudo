@@ -19,14 +19,14 @@ I am a hands-on developer focused on engineering functional software architectur
 
 ---
 
+
 ### 📁 Primary Project Archive
 All active operational scripts and deployment logs are hosted directly in my [Core Architecture Repository](https://github.com):
 
-* **`secure_auth_controller.py`** – Object-oriented database security layer using SHA-256 cryptographic account hashing.
-* **`engineering_math_engine.py`** – High-precision mathematical calculation platform containing a built-in look-up database for physics and chemistry constants.
-* **`linguistic_translation_core.py`** – Educational translation array script built to track and translate German text entries dynamically.
+* **`scientificoperation.py`** – Object-oriented database security layer using SHA-256 cryptographic account hashing.
+* **`obstaclesdetection.py`** – High-precision mathematical calculation platform containing a built-in look-up database for physics and chemistry constants.
+* **`german_translator.py`** – Educational translation array script built to track and translate German text entries dynamically.
 * **`heuristic_ai_agent.py`** – Natural language intent analysis assistant that reads human text strings and routes them to targeted study advice.
-* **`kinematic_robot_core.py`** – Robotic arm simulation framework using trigonometry to calculate tool tip coordinates and run active collision-checking algorithms.
 * **`sensor_fusion_node.py`** – Autonomous perception module combining camera data feeds with laser rangefinder telemetry arrays.
 
 ---

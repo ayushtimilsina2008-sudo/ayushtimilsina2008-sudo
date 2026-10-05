@@ -33,4 +33,4 @@ All active operational scripts and deployment logs are hosted directly in my [Co
 
 ### 🌐 Let's Connect
 * **GitHub Repository Archive:** [ayushtimilsina2008-sudo/AuthenticationController](https://github.com)
-* **Academic Gateway:** Enrolled at Berlin International College (Foundation Pathway starting November 16, 2026)
+* **Academic Gateway:** Enrolled at Berlin International College (Foundation Pathway starting November 16, 2026).

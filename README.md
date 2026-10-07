@@ -33,3 +33,7 @@ All active operational scripts and deployment logs are hosted directly in my [Co
 ### 🌐 Let's Connect
 * **GitHub Repository Archive:** [ayushtimilsina2008-sudo/AuthenticationController](https://github.com)
 * **Academic Gateway:** Enrolled at Berlin International College (Foundation Pathway starting November 16, 2026).
+ <h3 align="center">🎥 Live Kinematics Execution Proof</h3>
+<p align="center">
+  <video src="https://github.com" width="100%" autoplay loop muted playsinline></video>
+</p>
